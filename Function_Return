@@ -1,5 +1,5 @@
 def show_tool(tool):
-    message = "Tool: " + tool + "is ready"
+    message = "Tool: " + tool + " is ready"
     return message
 
 result = show_tool("Docker")
