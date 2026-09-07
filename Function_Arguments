@@ -1,0 +1,8 @@
+def show_tool(tool):
+    print("Tool:", tool)
+
+show_tool("Docker")
+show_tool("Jenkins")
+show_tool("Ansible")
+
+
